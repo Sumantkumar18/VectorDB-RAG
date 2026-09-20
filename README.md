@@ -339,8 +339,4 @@ std::string genModel = "llama3.2:1b";   // change this
 ```
 Recompile and restart.
 
----
 
-## License
-
-MIT — use this however you want.
